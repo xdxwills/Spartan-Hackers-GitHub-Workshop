@@ -1,1 +1,1 @@
-# Spartan-Hackers-GitHub-Workshop
+# Collaborative coding with other Spartan Hacker members.
