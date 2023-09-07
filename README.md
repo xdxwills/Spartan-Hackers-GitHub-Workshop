@@ -1,1 +1,1 @@
-# Collaborative coding with other Spartan Hacker members.
+# Collaborative coding with other Spartan Hackers members.
